@@ -1,0 +1,16 @@
+{
+  "name": "csroll",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "cypress run",
+    "test:debug": "cypress open"
+  },
+  "author": "Andrzej",
+  "license": "ISC",
+  "dependencies": {
+    "cypress": "^8.0.0",
+    "typescript": "^4.3.5"
+  }
+}
